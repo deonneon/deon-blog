@@ -39,3 +39,6 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
+
+parse.txt
+concat.sh
